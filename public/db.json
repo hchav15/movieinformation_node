@@ -1,0 +1,65 @@
+{"movies": [
+   {
+      "name":"GUNTUR KARAM",
+      "release_year":"2024",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/3e/Guntur_Kaaram_film_poster.jpg",
+      "actors":"Mahesh Babu",
+      "director":"Thrivikram",
+      "music_director":"Thaman",
+      "rating": "5.3/10",
+      "awards": "Filmfare for best actor"
+   },
+  {
+   "name":"RRR",
+   "release_year":"2022",
+   "poster": "https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg",
+   "actors":"N. T. Rama Rao Jr. and Ram Charan",
+   "director":"S. S. Rajamouli",
+   "music_director":"M. M. Keeravani",
+   "rating": "7.8/10",
+   "awards": "New York Film Critics Circle Award for Best Director, MORE"
+},
+{
+   "name":"KGF-2",
+   "release_year":"2022",
+   "poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg",
+   "actors":"Yash",
+   "director":"Prashant Neel",
+   "music_director":"Ravi Basur",
+   "rating": "8.3/10",
+   "awards": "International iconic award for actor, MORE"
+},
+{
+   "name":"Bahubali-2",
+   "release_year":"2017",
+   "poster": "https://upload.wikimedia.org/wikipedia/en/9/93/Baahubali_2_The_Conclusion_poster.jpg",
+   "actors":"prabhas",
+   "director":"S. S. Rajamouli",
+   "music_director":"M. M. Keeravani",
+   "rating": "8.2/10",
+   "awards": "National film award for best film, MORE"
+},
+{
+   "name":"athadu",
+   "release_year":"2005",
+   "poster": "https://upload.wikimedia.org/wikipedia/en/e/ee/Athadu_Poster.jpg",
+   "actors":"Mahesh Babu",
+   "director":"Thrivikram",
+   "music_director":"Manisharma",
+   "rating": "9.3/10",
+   "awards": "Nandhi award for best acor, MORE"
+},
+{
+   "name":"Businessman",
+   "release_year":"2012",
+   "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Businessman_poster.jpg",
+   "actors":"Mahesh Babu",
+   "director":"Puri Jagannadh",
+   "music_director":"Thaman",
+   "rating": "7.2/10",
+   "awards": "Filmfare for best actor, more"
+}
+
+
+
+]}
